@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735173445858",
+    "project_id": "messenger-clone-unes",
+    "storage_bucket": "messenger-clone-unes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735173445858:android:22918f1ac6c3d6f8f536bb",
+        "android_client_info": {
+          "package_name": "com.example.messenger_clone_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfZKoGr4KgxIWzYyUv9vgSkClM421uep4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
