@@ -1,3 +1,3 @@
 # messenger_clone_app
 
-A new Flutter project.
+Messenger app semi functional
