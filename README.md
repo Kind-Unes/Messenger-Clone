@@ -70,6 +70,5 @@ Launch the Messenger Clone app on your device or emulator, log in with your acco
 
 ## Contributing
 
-We welcome contributions from the community! If you find any issues or have suggestions, please open an issue or submit a pull request. Check out our [contributing guidelines](CONTRIBUTING.md) for more details.
-
+We welcome contributions from the community! If you find any issues or have suggestions, please open an issue or submit a pull request
 
